@@ -1,5 +1,7 @@
 # NBA Player Stats Tracker
 
+https://nbastatstracker.streamlit.app/
+
 An interactive **Python + Streamlit** web application that allows users to search NBA players and explore career, seasonal, and per-game statistics using the `nba_api` library.
 
 The app focuses on clean data presentation, historical accuracy, and real-world edge case handling for both modern and legacy NBA data.
